@@ -5,6 +5,7 @@
 
 ## Table of Contents
 - [Project Overview](#project-overview)
+- [Project Objective](#project-objective)
 - [Dataset](#dataset)
 - [Skill](#skill)
 - [Schema Building](#schema-building)
