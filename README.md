@@ -60,18 +60,18 @@ The report was presented with dashboard
 
 ## Analysis
 
-### Sales performance 
+### Sales Performance 
 ![](dash.jpg)
 
 - The **Total Sales** was **$470,530** with **2,102 Orders** made and **Total Profit** was **$61,620** with **Profit Margin** of **13.10%**.
 
-### Monthly sales
+### Monthly Sales
 The most sales was in **November** with sales of **$76,000** while the lowest sales was in the month of **February** with sales of **$12,000**.
 
-### Sales by region
+### Sales by Region
 The highest Sales was in **East region ($156,330)** followed by **West region ($139,970)** then **Central region ($102,870)**. Least Sales was in **South region** with **$71,360**.
 
-### Demography performance
+### Demography Performance
 
 ![](dash2.jpg)
 
