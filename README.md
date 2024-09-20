@@ -18,66 +18,66 @@ provide actionable recommendations to help guide decision-making and improve ove
 
 ## Dataset
 
-This is a dummy dataset provided by 10Alytics to demonstrate knowledge/skill of using Power BI
+This is a dummy dataset provided by 10Alytics to demonstrate knowledge/skill of using Power BI.
+The dataset consist of sales data for the Year 2015 (January to December).
 
-## Skills
+## Skills 
 - Bookmarkings,
 - DAX,
 - Page navigation,
 - Schemas development
 
-### Callender table:
+### Sales Table:
 
-![](Calender_Table.png)
-Created a calendar table with month, number and year to analyse sales in different months
+![](Sales_table.jpg)
+Sales Table (the **Fact Table**) used in the analysis
 
- ## Modelling:
- Automatically derived relationships are adjusted to remove and replace unwanted relationships with the required.
+ ## Schema:
 
 ![](starschema.jpg)
 
-The model is a star schema
-There are 5-dimension tables and 1 fact table. The dimension tables are all joined to the fact table with one-to-many relationship.
+The schema developed is a star schema with 5-dimension tables and 1 fact table. The dimension tables are all joined to the fact table with one-to-many relationship.
 
 ## Visualization
-The report comprises 2 major pages
-1.	Coreas sales performance
-2.	Demography performance
+The report was presented with dashboard
+1.	10Alytics Sales Performance dashboard
+2.	Demography performance dashboard
 
-you can interact with the report [here](https://app.powerbi.com/groups/me/reports/4dfa8df7-c7c0-407d-8add-0e005665f3df/ReportSection46e6db90e580d907e480?experience=power-bi)
+![](dash1.jpg)
 
-Features:
-The sales is button to display the sales performance while the performance button display the demagraphy performance 
 
 ## Analysis:
+
 ### Sales performance: 
-![](.jpg)
-The total sales is $470.53k
-2102 orders were made in that current year
-Profit Margin is 13.10%
+![](dash.jpg)
+
+- The **Total Sales** was **$470,530** with **2,102 Orders** made and **Total Profit** was **$61,620** with **Profit Margin** of **13.10%**.
 
 ### Monthly sales
-The month of November has the highest sales of $75,972.😄
+The most sales was in **November** with sales of **$76,000** while the lowest sales was in the month of **February** with sales of **$12,000**.
 
 ### Sales by region
-The sales by region include east, west, central and south
+The highest Sales was in **East region ($156,330)** followed by **West region ($139,970)** then **Central region ($102,870)**. Least Sales was in **South region** with **$71,360**.
 
 ### Demography performance:
-![](Dashboard_2.png)
-Total customers are 573
-Quantity sold that year were 7979
-Profits by segment include corporate , consumer and then home office
-Top 5 states by profit include New york , California, Washington, Michigan and Georgia
-Standard class is the most prefered ship mode
+
+![](dash2.jpeg)
+
+- **Total Customers** were **573**
+- **Total Quantity Sold** in the year under consideration (2015) were **7,979**
+- The most profitable **Customer Segment** was **Consumer (33.4%)**
+- While the **Top 5 Customers** were Andrew Gjersten, Peter Fuller, Cassandra Branden, Anna Haberlin and David Bremer, the **Top 5 Profitable Customers** were Christoper Martinez, Keith Dawkins,
+  Harry Marie, Fred Hopkins and Shirley Daniels.
+- Top 5 states by profit include New york , California, Washington, Michigan and Georgia.
+- Standard class is the most prefered mode of shipment.
 
 ## Conclusion 
-- Furnitures has the highest sales 
-- There are 3 main segments in the stores with various segments
-- The east part of the country record the highest sales
+The Furniture category recorded the highest sales across all segments. The stores are divided into three main segments, each with various subcategories. Additionally, the eastern region of the country 
+achieves the highest sales performance for the year analyzed.
  
 ## Recommendations
-- Products should be sold more to the east and west of the country
-- More Incentives should be created to improve more sales generally across the country
-- The quantity in stock of products with low sales performance should be reduced to provide capital for hot selling products & enable cash flow for business.
-- Also, the top performing products as visualized in the subcategory should be stocked more since they were mostly purchased.
-
+- Increase inventory of top-performing products in each subcategory, as they are the most frequently purchased.
+- More Incentives should be created to improve more sales generally across the country.
+- Expand sales efforts in the eastern and western regions of the country.
+- Reduce stock of low-performing products to allocate capital for high-demand items and improve cash flow.
+- Commission a study to investigate poor product performance in the southern region and apply insights to enhance sales.
