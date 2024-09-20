@@ -1,8 +1,19 @@
 # 10Alytics-Sales-Performance-Analysis with Power BI
 
 ![](sales_image.jpg)
----
 
+
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Dataset](#dataset)
+- [Skill](#skill)
+- [Schema Building](#schema-building)
+- [Visualization](#visualization)
+- [Analysis](#analysis)
+- [Conclusion](#conclusion)
+- [Recommendation](#recommendation)
+
+  
 ## Project Overview
 
 The goal of this project is to analyze sales performance at 10Alytics by examining data from various product categories and regions nationwide. The insights gained 
@@ -10,7 +21,7 @@ from this analysis will be used to develop strategies that optimize sales outcom
 provide actionable recommendations to help guide decision-making and improve overall business performance.
 
 
-## Project Objectives:
+## Project Objectives
 1.	Identify patterns and trends in sales transactions across product categories.
 2.	Optimize sales performance and profitability across regions nationwide.
 3.	Provide actionable recommendations based on the analysis.
@@ -27,12 +38,12 @@ The dataset consist of sales data for the Year 2015 (January to December).
 - Page navigation,
 - Schemas development
 
-### Sales Table:
+### Sales Table
 
 ![](Sales_table.jpg)
 Sales Table (the **Fact Table**) used in the analysis
 
- ## Schema:
+ ## Schema Building
 
 ![](starschema.jpg)
 
@@ -46,9 +57,9 @@ The report was presented with dashboard
 ![](dash1.jpg)
 
 
-## Analysis:
+## Analysis
 
-### Sales performance: 
+### Sales performance 
 ![](dash.jpg)
 
 - The **Total Sales** was **$470,530** with **2,102 Orders** made and **Total Profit** was **$61,620** with **Profit Margin** of **13.10%**.
@@ -59,7 +70,7 @@ The most sales was in **November** with sales of **$76,000** while the lowest sa
 ### Sales by region
 The highest Sales was in **East region ($156,330)** followed by **West region ($139,970)** then **Central region ($102,870)**. Least Sales was in **South region** with **$71,360**.
 
-### Demography performance:
+### Demography performance
 
 ![](dash2.jpeg)
 
