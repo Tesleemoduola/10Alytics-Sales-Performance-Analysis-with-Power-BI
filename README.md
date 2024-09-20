@@ -1,6 +1,6 @@
 # 10Alytics-Sales-Performance-Analysis with Power BI
 
-![](sales_image.jpg)
+![](sales_picture.jpeg)
 
 
 ## Table of Contents
@@ -73,7 +73,7 @@ The highest Sales was in **East region ($156,330)** followed by **West region ($
 
 ### Demography performance
 
-![](dash2.jpeg)
+![](dash2.jpg)
 
 - **Total Customers** were **573**
 - **Total Quantity Sold** in the year under consideration (2015) were **7,979**
