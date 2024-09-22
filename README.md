@@ -8,7 +8,7 @@
 - [Project Objective](#project-objective)
 - [Dataset](#dataset)
 - [Skill](#skill)
-- [Schema Building](#schema-building)
+- [Model Building](#model-building)
 - [Visualization](#visualization)
 - [Analysis](#analysis)
 - [Conclusion](#conclusion)
@@ -44,11 +44,11 @@ The dataset consist of sales data for the Year 2015 (January to December).
 ![](Sales_table.jpg)
 Sales Table (the **Fact Table**) used in the analysis
 
- ## Schema Building
+ ## Model Building
 
 ![](starschema.jpg)
 
-The schema developed is a star schema with 5-dimension tables and 1 fact table. The dimension tables are all joined to the fact table with one-to-many relationship.
+The model developed was a star schema with 5-dimension tables and 1 fact table. The dimension tables are all joined to the fact table with one-to-many relationship.
 
 ## Visualization
 The report was presented with dashboard
